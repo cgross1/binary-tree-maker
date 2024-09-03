@@ -10,7 +10,7 @@ This project is a Java application that allows users to input a binary tree in a
 
 ## Usage
 
-1. Run the main class to launch the GUI.
+1. Run the Main class to launch the GUI.
 2. Enter a binary tree in the parenthesized prefix format (e.g., `(A(G(j)(1))(z(5)))`).
 3. Use the buttons in the GUI to:
    - Construct the tree. 
