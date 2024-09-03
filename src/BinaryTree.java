@@ -107,7 +107,7 @@ public class BinaryTree {
 		//if it is a )
 		if (c == ')') {
 			//return the node, it is a node with two children
-			System.out.println("close parenth found. returning currentNode. it has two childeren");
+			System.out.println("close parenth found. returning currentNode. it has two children");
 			return currentNode;
 		}
 		
