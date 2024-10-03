@@ -1,8 +1,5 @@
 /*
  * Christopher Gross
- * CMSC 350 / 6980
- * Project 3
- * 7/25/23
  * 
  * Main class creates GUI, takes in user input, and calls functions when buttons are clicked to interpret user input
  */

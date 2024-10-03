@@ -1,8 +1,5 @@
 /*
  * Christopher Gross
- * CMSC 350 / 6980
- * Project 3
- * 7/25/23
  * 
  * InvalidTreeSyntax creates custom window with message to display errors for invalid inputs.
  */

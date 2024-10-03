@@ -1,8 +1,5 @@
 /*
  * Christopher Gross
- * CMSC 350 / 6980
- * Project 3
- * 7/25/23
  * 
  * Binary Tree class: creates Binary Tree object. Nested class Node creates node objects which are used to build tree.
  * Methods execute functions to determine if tree is proper, balanced full, get tree height, number of nodes and output inorder tree traversal
